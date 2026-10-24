@@ -1,0 +1,6 @@
+{
+  "name": "SponsorSync - Creator & Brand Escrow Marketplace",
+  "description": "Cross-platform Creator-Brand Marketplace app featuring dual-role workspaces, verified campaign discovery, escrow-secured contract management, and Stripe Express payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
